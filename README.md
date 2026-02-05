@@ -8,7 +8,9 @@ Here are a few of my projects you can check out:
 
 
 - [Analyzing Housing Cost Burden in Georgia](https://github.com/jasonmw324/Analyzing-Housing-Cost-Burden-in-Georgia). Using ACS data for the U.S. Census buruea I Led a 4-person team analyzing the percent of houses in Georgia classified as cost burdened (spending 30% or more of their income on housing costs) and the variables that relate to it. We summarized our analysis and findings in a [report](https://github.com/jasonmw324/Analyzing-Housing-Cost-Burden-in-Georgia/blob/main/Cost_Burdened_Housing_Analysis_Report.pdf).
+ 
 - [Georgia Bridge Condition Classification](https://github.com/jasonmw324/Bridge-Condition-Classification). Using publicly available data, I built a random forest classifier to classify the condition of bridges in Georgia, achieving 75% recall on the poorest-conditioned class, enabling targeted maintenance prioritization and data-driven infrastructure planning
+
 - [Energy Sales Forecast](https://github.com/jasonmw324/Energy-Sales-Forecast). Using U.S. Energy Information Administration Data I forecasted energy sales using dual scenario SARIMA models one focusing on the increasing growth trend and one being a more conservative model tapping into historical trends more. The models recieved MAPE's of 2.8% and 4.6% respectively. A streamlit dashboard of the models can be found [here]()
 
 
