@@ -6,8 +6,8 @@ I am a graduate student in the University of Georgia’s M.S. in Statistics prog
 Here are a few of my projects you can check out:
 
 
-- [Analyzing Housing Cost Burden in Georgia]([https://github.com/YOUR_USERNAME/housing-cost-burden-ga](https://github.com/jasonmw324/Analyzing-Housing-Cost-Burden-in-Georgia))
-- [Georgia Bridge Condition Classification]([https://github.com/YOUR_USERNAME/housing-cost-burden-ga](https://github.com/jasonmw324/Bridge-Condition-Classification))
-- [Energy Sales Forecast]([https://github.com/YOUR_USERNAME/housing-cost-burden-ga](https://github.com/jasonmw324/Energy-Sales-Forecast))
+- [Analyzing Housing Cost Burden in Georgia](https://github.com/jasonmw324/Analyzing-Housing-Cost-Burden-in-Georgia)
+- [Georgia Bridge Condition Classification](https://github.com/jasonmw324/Bridge-Condition-Classification)
+- [Energy Sales Forecast](https://github.com/jasonmw324/Energy-Sales-Forecast)
 
 
